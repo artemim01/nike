@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+}
+.logo{
+    width: 107px;
+    height: 91px;
+}
+.header{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius:25px ;
+    margin: 40px;
+
+}
+nav{
+   position: relative;
+   left: 150px;
+   bottom: 70px;
+}
+section{
+ margin: 50px;
+}
+footer{
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    padding: 20px;
+}
+p{
+    text-align: center;
+}
+.header:hover{
+    background-color: orange;
+}
+
+
