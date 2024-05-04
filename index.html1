@@ -9,8 +9,8 @@
         <header>
             <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiHo5sfBorKvVxZbOvXekjxsyQO2ld_89wLa04DFPZA&s"/>
             <nav >
-                <a class="header" href="index.html">Історія винекнення</a>
-                <a class="header" href="index.html">Акцї</a>
+                <a class="header" href="index.html2">Історія винекнення</a>
+                <a class="header" href="index.html3">Акцї</a>
             </nav>
         </header>
         <main>
