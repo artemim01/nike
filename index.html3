@@ -1,0 +1,33 @@
+
+<html>
+    <head>
+        <title>
+            nike
+        </title>
+        <link rel="stylesheet" href="style.css3">
+    </head>
+    <body>
+        <header>
+            <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiHo5sfBorKvVxZbOvXekjxsyQO2ld_89wLa04DFPZA&s"/>
+            <nav >
+                <a class="header" href="index.html2">Історія винекнення</a>
+                <a class="header" href="index.html1">на головну</a>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <img src="https://catorange.ua/content/uploads/images/bez-imeni-22.jpg"/>
+                <img src="https://skymall.ua/wp-content/uploads/2019/03/ostin_POS_50__400x400.jpg"/>
+          
+
+            </section>
+           
+        </main>
+        <footer>
+            <h1>телефон</h1>
+            <h1>
+Адреса</h1>
+        </footer>
+
+    </body>
+</html>
