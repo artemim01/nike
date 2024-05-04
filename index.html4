@@ -1,0 +1,38 @@
+
+<html>
+    <head>
+        <title>
+            nike
+        </title>
+        <link rel="stylesheet" href="style.css4">
+    </head>
+    <body>
+        <header>
+            <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiHo5sfBorKvVxZbOvXekjxsyQO2ld_89wLa04DFPZA&s"/>
+            <nav class="p">
+                <a class="header" href="index.html2">Історія винекнення</a>
+                <a class="header" href="index.html1">на головну</a>
+                <a class="header" href="index.html3">Знижки</a>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <h2>кросівки Nike Air Max 270 в білому кольорі</h2>
+                <img class="to" src="https://images.prom.ua/1278824179_1278824179.jpg?PIMAGE_ID=1278824179"/>
+                <nav>
+                <a class="r" href="https://im-polli.com/ua/p694176868-nike-air-max.html">Склад і характеристики:</a>
+                <a class="r" href="https://im-polli.com/ua/p694176868-nike-air-max.html">КУПИТИ</a>
+                </nav>
+          
+
+            </section>
+           
+        </main>
+        <footer>
+            <h1>телефон</h1>
+            <h1>
+Адреса</h1>
+        </footer>
+
+    </body>
+</html>
