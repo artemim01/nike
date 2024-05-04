@@ -9,20 +9,23 @@
         <header>
             <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiHo5sfBorKvVxZbOvXekjxsyQO2ld_89wLa04DFPZA&s"/>
             <nav >
-                <a class="header" href="">Історія винекнення</a>
-                <a class="header" href="">Акцї</a>
+                <a class="header" href="index.html">Історія винекнення</a>
+                <a class="header" href="index.html">Акцї</a>
             </nav>
         </header>
         <main>
             <section>
                 <article class="1">
                     <img class="photo" src="https://images.prom.ua/1278824179_1278824179.jpg?PIMAGE_ID=1278824179"/>
+                    <a class="d" href="index.html">Детальніше</a>
                 </article>
                 <article class="2">
                     <img class="photo" src="https://images.prom.ua/4384108204_w640_h640_muzhskaya-futbolka-nike.jpg"/>
+                    <a class="d" href="index.html">Детальніше</a>
                 </article>
                 <article class="3">
                     <img class="photo" src="https://allstars.ua/upload/iblock/e4a/e4a78a4456f2977a66376d9fbd0b99d5.jpg"/>
+                    <a class="d" href="index.html">Детальніше</a>
                 </article>
             </section>
            
