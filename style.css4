@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: black;
+}
+.logo{
+    width: 107px;
+    height: 91px;
+}
+.header{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius:25px ;
+    margin: 40px;
+
+}
+.p{
+   position: relative;
+   left: 150px;
+   bottom: 70px;
+}
+section{
+ margin: 50px;
+}
+footer{
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    padding: 20px;
+}
+.to{
+    width: 300px;
+    height: 250px;
+}
+h2{
+    text-align: center;
+}
+.r{
+    text-decoration:none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius:15px ;
+    margin: 20px;
+   
+}
+nav{
+  position:relative;
+  left: 300px;
+  bottom: 150px;
+ 
+
+}
+.header:hover{
+    background-color: orange;
+}
+.r:hover{
+    background-color: orange;
+}
+
+
