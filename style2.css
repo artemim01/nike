@@ -37,5 +37,7 @@ p{
 .header:hover{
     background-color: orange;
 }
-
+.header:focus{
+    background-color: blue;
+}
 
