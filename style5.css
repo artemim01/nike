@@ -62,3 +62,9 @@ nav{
 .r:hover{
     background-color: orange;
 }
+.r:focus{
+    background-color: blue;
+}
+.header:focus{
+    background-color: blue;
+}
